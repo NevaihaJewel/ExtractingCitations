@@ -22,28 +22,20 @@ This Python program automates the retrieval of citation records for healthcare f
 <h2>Project Walk-Through:</h2>
 
 <p align="center">
-The Program: The first program of foundational concepts<br/>
+The Program: Opens the website and searches the facility name on the first webpage<br/>
 <img src="https://i.imgur.com/AWbehCa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The Program: The second program that calls on the previous functions<br/>
+The Program: Selects the facility on the second webpage and gathers citation details from the most recent year on the third webpage<br/>
 <img src="https://i.imgur.com/TOo2s6s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The Program: The second program that calls on the previous functions<br/>
+The Program: Counts the number of citations on the fourth webpage then returning to the first webpage for the next facility<br/>
 <img src="https://i.imgur.com/Sn3rimM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The Program: The second program that calls on the previous functions<br/>
+The Program: Collects all of the extracted data and stores it in a new Excel file<br/>
 <img src="https://i.imgur.com/Rgmoc9F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-The Results: Effectively runs through the second program<br/>
-<img src="https://i.imgur.com/W9baBR2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-The Results: Demonstrates conditional statements and operations<br/>
-<img src="https://i.imgur.com/9w6Jd1I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
   
 </p>
